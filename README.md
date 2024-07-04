@@ -1,13 +1,10 @@
 # mini-terminal
-Sure, I'll create a README file for your project. Based on the provided files `main.c`, `shell.c`, and `shell.h`, here is a structured README template:
 
----
-
-# Project Title
+# SHELL
 
 ## Introduction
 
-This project is designed to [briefly describe the purpose of your project, e.g., "implement a simple shell program for educational purposes"]. It consists of three main files:
+Welcome to the SHELL repository! This project is a comprehensive implementation of a custom shell program designed to provide an educational and practical understanding of how shells operate in Unix-like systems.
 
 - `main.c`
 - `shell.c`
@@ -62,5 +59,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 5. Open a pull request.
 
 ---
-
-Feel free to modify the README as needed to better fit your project's details and specifics. If there are any additional features or instructions specific to your project, please let me know so I can include them.
